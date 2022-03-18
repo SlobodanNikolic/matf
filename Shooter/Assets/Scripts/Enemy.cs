@@ -19,6 +19,7 @@ public class Enemy : NPC
         //animator.SetFloat("MoveSpeed", velocity);
         MoveToPlayer();
     }
+
     IEnumerator Attack()
     {
         while (lockedTarget != null)
