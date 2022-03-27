@@ -19,3 +19,7 @@ Fourth class
 Slides: https://docs.google.com/presentation/d/1jeGfut8Hkhc-5J1zy7mdybGizbIuutThfyeKs73mlj8/edit?usp=sharing
 Video: https://youtu.be/Glxdow-dXVY
 Homework: https://docs.google.com/document/d/1B95I1gUsTBwVBf3QBIcKwifxOqesBHWYtTJHBPqJ1QQ/edit?usp=sharing
+
+Fifth class
+Slides: https://docs.google.com/presentation/d/13s-nqH6WgMHnKXvpwPiCDoF-fy3dkSnGjqNvF7EuHAc/edit?usp=sharing
+Video: https://youtu.be/h-TqzrLCTAM
