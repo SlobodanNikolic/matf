@@ -23,3 +23,6 @@ Homework: https://docs.google.com/document/d/1B95I1gUsTBwVBf3QBIcKwifxOqesBHWYtT
 Fifth class
 Slides: https://docs.google.com/presentation/d/13s-nqH6WgMHnKXvpwPiCDoF-fy3dkSnGjqNvF7EuHAc/edit?usp=sharing
 Video: https://youtu.be/h-TqzrLCTAM
+
+Sixth class
+Video: https://drive.google.com/file/d/1JI3mqDMLV23LSOh8IUmjM6elfvap_iHx/view?usp=sharing
