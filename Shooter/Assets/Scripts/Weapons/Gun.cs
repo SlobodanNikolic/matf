@@ -5,6 +5,7 @@ using UnityEngine;
 public class Gun : Weapon
 {
     [SerializeField] Bullet bullet;
+    [SerializeField] private ParticleSystem muzzleFlash;
 
     
     public override void Shoot()
@@ -13,6 +14,7 @@ public class Gun : Weapon
         {
             Bullet tmpBullet = Instantiate(bullet, tipOfTheWeapon.position, tipOfTheWeapon.rotation);
             tmpBullet.Setup(damage);
+            muzzleFlash.Play();
             lastTimeShoot = Time.time;
         }
         

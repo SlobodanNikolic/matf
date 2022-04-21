@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class BaseCharacter : MonoBehaviour, IDamageable
 {
-    private int health;
+    private int health = 100;
     public int Health { get { return health; } }
 
     public void Die()

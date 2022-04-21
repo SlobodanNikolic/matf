@@ -42,7 +42,7 @@ public class EnemySpawner : MonoBehaviour
             Vector3 spawnPosition = spawnPoints[index].position;
 
             GameObject instantiatedEnemy = Instantiate(enemyPrefab, spawnPosition, Quaternion.identity);
-
+            instantiatedEnemy.GetComponent<Enemy>().TakeDamage(randomIndex.Next(5, 99));
             intantiatedEnemies.Add(instantiatedEnemy);
             enemyCount++;
 

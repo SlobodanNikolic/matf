@@ -11,8 +11,12 @@ public class PlayerMovement : MonoBehaviour
 
     [SerializeField] Weapon weapon;
 
-    private float horizontal;
-    private float vertical;
+    [SerializeField] private float horizontal;
+    [SerializeField] private float vertical;
+
+    [SerializeField] private Animator characterAnimator;
+
+    [SerializeField] float movementSpeed;
 
     private void Awake()
     {
@@ -61,6 +65,9 @@ public class PlayerMovement : MonoBehaviour
     {
         horizontal = Input.GetAxis("Horizontal");
         vertical = Input.GetAxis("Vertical");
+
+        movementSpeed = Mathf.Clamp01(Mathf.Abs(horizontal)+Mathf.Abs(vertical));
+        characterAnimator.SetFloat("Speed", movementSpeed);
     }
 
     private void Move()
