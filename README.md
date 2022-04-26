@@ -27,9 +27,6 @@ Video: https://youtu.be/h-TqzrLCTAM
 Sixth class
 Video: https://drive.google.com/file/d/1JI3mqDMLV23LSOh8IUmjM6elfvap_iHx/view?usp=sharing
 
-Seventh class
-https://drive.google.com/file/d/1JI3mqDMLV23LSOh8IUmjM6elfvap_iHx/view?usp=sharing
-
-Eight class, part 1 and part 2:
+Seventh class, part 1 and part 2:
 https://youtu.be/FWeawgvkkoM
 https://youtu.be/YqFDO2Vd6m8
